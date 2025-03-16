@@ -29,18 +29,6 @@ Bienvenido a **Amigo Secreto**, un juego divertido que te permite agregar amigos
 
 ---
 
-## 📦 **Instalación**
-
-1. **Clona este repositorio** o **descarga el código**.
-    ```bash
-    git clone https://github.com/tu-usuario/amigo-secreto.git
-    ```
-
-2. Abre el archivo `index.html` en tu navegador preferido.
-    - No es necesario instalar ningún servidor; puedes ver el proyecto directamente en el navegador.
-
----
-
 ## 🔧 **Uso**
 
 1. **Agregar nombres:**
