@@ -1,5 +1,3 @@
-¡Me alegra que te haya gustado! Aquí te dejo el README ajustado según tus indicaciones:
-
 ---
 
 # 🎭 **Amigo Secreto - Juego en JavaScript**
